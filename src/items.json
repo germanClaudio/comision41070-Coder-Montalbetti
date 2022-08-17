@@ -1,0 +1,133 @@
+[
+  {
+    "id" : 1,   
+    "image" : "../src/imgPerfumes/bossIntenseMas.png",
+    "title" : "Perfume Hombre Boos Intense",
+    "capacity" : "90ml",
+    "price" : 3990.55,
+    "cuota" : "en 12x $565.82",
+    "stock" : 10,
+    "category" : "masculinos"
+  },
+  {
+    "id" : 2, 
+    "image" : "../src/imgPerfumes/bossBlackMas.png",
+    "title" : "Perfume Hombre EDT Boos Black",
+    "capacity" : "100ml",
+    "price" : 3543.99,
+    "cuota" : "en 6x $590.50 (S/Int)",
+    "stock" : 8,
+    "category" : "masculinos"
+  },
+  {
+    "id" : 3, 
+    "image" : "../src/imgPerfumes/ch212vipmenMas.png",
+    "title" : "Perfume CH 212 Vip Men",
+    "capacity" : "100ml",
+    "price" : 6243.80,
+    "cuota" : "en 12x $902.44",
+    "stock" : 7,
+    "category" : "masculinos"
+  },
+  {
+    "id" : 4, 
+    "image" : "../src/imgPerfumes/naturaEssencialIntensoMas.png",
+    "title" : "Perfume Natura Essencial Intenso",
+    "capacity" : "100ml",
+    "price" : 8959.75,
+    "cuota" : "en 12x $946.33",
+    "stock" : 5,
+    "category" : "masculinos"
+  },
+  {
+    "id" : 5, 
+    "image" : "../src/imgPerfumes/pacoRInvictusMas.png",
+    "title" : "Perfume Paco Rabanne Invictus",
+    "capacity" : "100ml",
+    "price" : 19855.80,
+    "cuota" : "en 12x $1998.25",
+    "stock" : 4,
+    "category" : "masculinos"
+  },
+  {
+    "id" : 6, 
+    "image" : "../src/imgPerfumes/PacoROneMillMas.png",
+    "title" : "Perfume Paco Rabanne One Millon",
+    "capacity" : "100ml",
+    "price" : 25900.00,
+    "cuota" : "en 6x $4333.17",
+    "stock" : 6,
+    "category" : "masculinos"
+  },
+  {
+    "id" : 7, 
+    "image" : "../src/imgPerfumes/wellingtonPoloClubAzulMas.png",
+    "title" : "Perfume Wellington Polo Club Azul",
+    "capacity" : "90ml",
+    "price" : 3500.00,
+    "cuota" : "en 6x $583.33",
+    "stock" : 2,
+    "category" : "masculinos"
+  },
+  {
+    "id" : 8, 
+    "image" : "../src/imgPerfumes/chGoodGirl_Fem.png",
+    "title" : "Perfume Carolina Herrera Good Girl EDP",
+    "capacity" : "80ml",
+    "price" : 14150.00,
+    "cuota" : "en 12x $2006.59",
+    "stock" : 6,
+    "category" : "femeninos"
+  },
+  {
+    "id" : 9, 
+    "image" : "../src/imgPerfumes/kenzoFlower_fem.png",
+    "title" : "Perfume Flower by Kenzo EDP",
+    "capacity" : "30ml",
+    "price" : 8100.00,
+    "cuota" : "en 12x $1148.65",
+    "stock" : 12,
+    "category" : "femeninos"
+  },
+  {
+    "id" : 10, 
+    "image" : "../src/imgPerfumes/chWomen_Fem.png",
+    "title" : "Perfume CH Women EDT",
+    "capacity" : "80ml",
+    "price" : 16350.00,
+    "cuota" : "en 12x $2318.57",
+    "stock" : 11,
+    "category" : "femeninos"
+  },
+  {
+    "id" : 11, 
+    "image" : "../src/imgPerfumes/jesusHalloween_Fem.png",
+    "title" : "Perfume Jesus del Pozo Halloween EDT",
+    "capacity" : "90ml",
+    "price" : 11135.00,
+    "cuota" : "en 12x $1855.83",
+    "stock" : 8,
+    "category" : "femeninos"
+  },
+  {
+    "id" : 12, 
+    "image" : "../src/imgPerfumes/pacoRLady_Fem.png",
+    "title" : "Paco Rabanne Lady Million EDP",
+    "capacity" : "80ml",
+    "price" : 20969.15,
+    "cuota" : "en 12x $2973.60",
+    "stock" : 8,
+    "category" : "femeninos"
+  },
+  {
+    "id" : 13, 
+    "image" : "../src/imgPerfumes/antonioBHerSecret_Fem.png",
+    "title" : "Antonio Banderas Her Secret Temptation",
+    "capacity" : "50ml",
+    "price" : 3795,
+    "cuota" : "en 12x $538.16",
+    "stock" : 14,
+    "category" : "femeninos"
+  }
+]  
+

@@ -1,11 +1,13 @@
 # comision41070-Coder-Montalbetti
 
-[E-commerce LaChauffer.md.html](https://github.com/germanClaudio/comision41070-Coder-Montalbetti/blob/master/README.md)
-
 # E-commerce LaChauffer
 ## E-commerce generico Version 1.0
 
 ## Demo
+https://github.com/germanClaudio/comision41070-Coder-Montalbetti/blob/master/Demo%20E-Commerce%2018-8-2022.MP4
+
+
+https://user-images.githubusercontent.com/94622380/185395160-8a3e1e12-f148-42dc-976f-143e895c80dd.mp4
 
 
 ## Descripción
@@ -41,5 +43,3 @@ Proximas funcionalidades a implementar en el E-Commerce
 - Agregar pantalla landing, Logeo de usuarios y administrados
 - Nuevas funcionalidades para administrador (agregado de nuevos productos, actualización de stock)
 - Agregado de filtros (por precio, valores maximos y minimos, capacidades, etc.)
-
-    

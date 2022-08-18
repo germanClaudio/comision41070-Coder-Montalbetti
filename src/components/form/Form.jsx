@@ -168,7 +168,7 @@ const form = () => {
                                 title: `Your Order # ${resp.id}<br>has been generated succesfully!!`,
                                 width: 775,
                                 html: ` <div id="orderPDF" className="my-2 mx-1"><br>
-                                            <img className="imgHomePage" src="./src/logoLaChauffer.png" alt="Logo Perfumes" width="150" height="120" title="La Chauffer"/><br><br>
+                                            <img className="imgHomePage" src="/src/logoLaChauffer.png" alt="Logo Perfumes" width="150" height="120" title="La Chauffer"/><br><br>
                                             Order Id#: <strong>${resp.id}</strong><br>
                                             <hr>
                                             Total Qty. Items: ${order.itemTotal} <br><br> 

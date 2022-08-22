@@ -3,7 +3,7 @@
 # E-commerce LaChauffer
 ## E-commerce generico Version 1.0
 [![Netlify Status](https://api.netlify.com/api/v1/badges/fc31b6e1-d5e0-48ce-ab4e-0441b535429a/deploy-status)](https://app.netlify.com/sites/chimerical-cannoli-089be7)
-https://chimerical-cannoli-089be7.netlify.app/inicio
+https://chimerical-cannoli-089be7.netlify.app
 
 ## Demo
 https://github.com/germanClaudio/comision41070-Coder-Montalbetti/blob/master/Demo%20E-Commerce%2018-8-2022.MP4
